@@ -3,18 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EnnemyPro
+  - Tile
+  - Destroyer
+  - City
+  - House
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Tool
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - BackGround1
+  - BackGround2
+  - Player
+  - Ennemy
   - 
   - 
   - 
@@ -40,4 +45,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: front
+    uniqueID: 2745971339
     locked: 0
